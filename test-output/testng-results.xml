@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="143" started-at="2020-05-25T17:18:53 IST" finished-at="2020-05-25T17:18:54 IST">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="143" started-at="2020-05-25T17:18:53 IST" finished-at="2020-05-25T17:18:54 IST">
+      <class name="Example.learningProperty">
+        <test-method status="PASS" signature="testProperty()[pri:0, instance:Example.learningProperty@69a3d1d]" name="testProperty" duration-ms="21" started-at="2020-05-25T17:18:54 IST" finished-at="2020-05-25T17:18:54 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testProperty -->
+      </class> <!-- Example.learningProperty -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
